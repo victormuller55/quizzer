@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perguntas | Quiizer</title>
+    <link rel="shortcut icon" href="imagens/logo/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="estilos/pergunta.css">
+    <link rel="stylesheet" href="estilos/timer.css">
+</head>
+<body>
+    <header>
+        <h2 id="numero-pergunta" class="numero-pergunta">Pergunta 1</h2>
+        <div class="numero" id="segundo"></div>
+    </header>
+    <body>
+        
+        <main>
+            <img id="imagem-pergunta" class="imagem" src=" " alt="">
+            <h3 id="pergunta" class="pergunta"></h3>
+            <div class="div-respostas">
+                <button id="resposta1" class="resposta" onclick="verificaResposta('resposta1')"></button><br>
+                <button id="resposta2" class="resposta" onclick="verificaResposta('resposta2')"></button><br>
+                <button id="resposta3" class="resposta" onclick="verificaResposta('resposta3')"></button><br>
+                <button id="resposta4" class="resposta" onclick="verificaResposta('resposta4')"></button><br>
+            </div>
+        </main>
+        <script src="javascript/pergunta.js"></script>
+    </body>
+</body>
+</html>

@@ -1,0 +1,279 @@
+{
+  "perguntas": [
+      {
+          "tema": "minecraft",
+          "perguntas": [
+              {
+                  "pergunta": "Qual mob que não leva dano de queda?",
+                  "respostas": [
+                      "Iron Golen",
+                      "Silver Fish",
+                      "Enderman",
+                      "Vaca"
+                    ],
+                  "resposta_correta": "Iron Golen"
+              },
+              {
+                  "pergunta": "Qual é a criatura hostil mais perigosa do Minecraft?",
+                  "respostas": [
+                      "Warden",
+                      "Creeper",
+                      "Aranha",
+                      "Zumbi"
+                    ],
+                  "resposta_correta": "Warden"
+              },
+              {
+                  "pergunta": "Como se chama o mundo que Steve é gerado no Minecraft?",
+                  "respostas": [
+                      "Mundo",
+                      "Overworld",
+                      "End",
+                      "Nether"
+                    ],
+                  "resposta_correta": "Overworld"
+              },
+              {
+                  "pergunta": "Qual é o material mais resistente que pode ser quebrado no Minecraft?",
+                  "respostas": [
+                      "Enderdragon",
+                      "Diamante",
+                      "Madeira",
+                      "Obsidiana"
+                    ],
+                  "resposta_correta": "Obsidiana"
+              },
+              {
+                  "pergunta": "Quais são as duas dimensões adicionais no Minecraft além do Overworld?",
+                  "respostas": [
+                      "Submundo e Espaço",
+                      "Nether e End",
+                      "Profundezas e Além",
+                      "Céu e Inferno"
+                    ],
+                  "resposta_correta": "Nether e End"
+              }
+          ]
+      },
+      {
+          "tema": "paris",
+          "perguntas": [
+              {
+                  "pergunta": "Qual é o rio que atravessa Paris?",
+                  "respostas": [
+                      "Séna",
+                      "Senne",
+                      "Sena",
+                      "Senna"
+                  ],
+                  "resposta_correta": "Sena"
+              },
+              {
+                  "pergunta": "Qual é o monumento mais visitado de Paris?",
+                  "respostas": [
+                      "Louvre",
+                      "Notre-Dame",
+                      "Torre Eiffel",
+                      "Arco do Triunfo"
+                  ],
+                  "resposta_correta": "Torre Eiffel"
+              },
+              {
+                  "pergunta": "Qual é o nome do bairro boêmio de Paris?",
+                  "respostas": [
+                      "Le Marais",
+                      "Montmartre",
+                      "Saint-Germain-des-Prés",
+                      "Quartier Latin"
+                  ],
+                  "resposta_correta": "Montmartre"
+              },
+              {
+                  "pergunta": "Em que ano foi construída a Catedral de Notre-Dame?",
+                  "respostas": [
+                      "1345",
+                      "1420",
+                      "1500",
+                      "1163"
+                    ],
+                  "resposta_correta": "1163"
+              },
+              {
+                  "pergunta": "Qual é o museu mais famoso de Paris?",
+                  "respostas": [
+                      "Musée d'Orsay",
+                      "Centre Pompidou",
+                      "Louvre",
+                      "Musée de l'Orangerie"
+                  ],
+                  "resposta_correta": "Louvre"
+              }
+          ]
+      },
+      {
+          "tema": "comida",
+          "perguntas": [
+              {
+                  "pergunta": "Qual é o prato típico da culinária italiana feito de massa?",
+                  "respostas": [
+                      "Pizza",
+                      "Spaghetti",
+                      "Lasanha",
+                      "Risoto"
+                  ],
+                  "resposta_correta": "Spaghetti"
+              },
+              {
+                  "pergunta": "Qual é a bebida tradicional do Japão feita de arroz?",
+                  "respostas": [
+                      "Soju",
+                      "Shochu",
+                      "Saquê",
+                      "Sake"
+                  ],
+                  "resposta_correta": "Saquê"
+              },
+              {
+                  "pergunta": "Qual é a comida típica brasileira feita com feijão preto e carne de porco?",
+                  "respostas": [
+                      "Moqueca",
+                      "Feijoada",
+                      "Churrasco",
+                      "Coxinha"
+                  ],
+                  "resposta_correta": "Feijoada"
+              },
+              {
+                  "pergunta": "Qual é o nome da sopa fria espanhola à base de tomate, pimentão, pepino, cebola e alho?",
+                  "respostas": [
+                      "Sopa de Tomate",
+                      "Sopa de Cebola",
+                      "Caldo Verde",
+                      "Gazpacho"
+                    ],
+                  "resposta_correta": "Gazpacho"
+              },
+              {
+                  "pergunta": "Qual é o prato típico da culinária mexicana feito com tortilla de milho, carne, queijo, pimenta e outros ingredientes?",
+                  "respostas": [
+                      "Burrito",
+                      "Enchilada",
+                      "Taco",
+                      "Quesadilla"
+                  ],
+                  "resposta_correta": "Taco"
+              }
+          ]
+      },
+      {
+          "tema": "universo",
+          "perguntas": [
+              {
+                  "pergunta": "Qual é a teoria que explica a origem do universo a partir de uma grande explosão?",
+                  "respostas": [
+                      "Expansão cósmica",
+                      "Teoria da Relatividade",
+                      "Big Bang",
+                      "Teoria do Universo Estático"
+                  ],
+                  "resposta_correta": "Big Bang"
+              },
+              {
+                  "pergunta": "Qual é a estrela mais próxima da Terra, além do Sol?",
+                  "respostas": [
+                      "Alfa Centauri",
+                      "Betelgeuse",
+                      "Próxima Centauri",
+                      "Sirius"
+                  ],
+                  "resposta_correta": "Próxima Centauri"
+              },
+              {
+                  "pergunta": "Qual é a galáxia mais próxima da Via Láctea?",
+                  "respostas": [
+                      "Messier 87",
+                      "Sombrero",
+                      "Centaurus A",
+                      "Andrômeda"
+                    ],
+                  "resposta_correta": "Andrômeda"
+              },
+              {
+                  "pergunta": "Qual é o nome do telescópio espacial lançado pela NASA em 1990?",
+                  "respostas": [
+                      "Hubble",
+                      "Spitzer",
+                      "Chandra",
+                      "Kepler"
+                  ],
+                  "resposta_correta": "Hubble"
+              },
+              {
+                  "pergunta": "Qual é o nome do maior planeta do Sistema Solar?",
+                  "respostas": [
+                      "Júpiter",
+                      "Saturno",
+                      "Urano",
+                      "Netuno"
+                  ],
+                  "resposta_correta": "Júpiter"
+              }
+          ]
+      },
+      {
+          "tema": "linguages",
+          "perguntas": [
+              {
+                  "pergunta": "Qual é a linguagem de programação mais utilizada para desenvolvimento web?",
+                  "respostas": [
+                      "Python",
+                      "Java",
+                      "JavaScript",
+                      "Ruby"
+                  ],
+                  "resposta_correta": "JavaScript"
+              },
+              {
+                  "pergunta": "Qual é a linguagem de programação considerada 'linguagem mãe'?",
+                  "respostas": [
+                      "Assembly",
+                      "Python",
+                      "Fortran",
+                      "C"
+                  ],
+                  "resposta_correta": "C"
+              },
+              {
+                  "pergunta": "Qual é a linguagem de programação criada por Bjarne Stroustrup?",
+                  "respostas": [
+                      "Java",
+                      "C++",
+                      "C#",
+                      "Ruby"
+                  ],
+                  "resposta_correta": "C++"
+              },
+              {
+                  "pergunta": "Qual é a linguagem de programação amplamente usada em estatísticas e análise de dados?",
+                  "respostas": [
+                      "Python",
+                      "Java",
+                      "Matlab",
+                      "R"
+                  ],
+                  "resposta_correta": "R"
+              },
+              {
+                  "pergunta": "Qual é a linguagem de programação conhecida por ser usada para desenvolvimento de aplicações móveis?",
+                  "respostas": [
+                      "Swift",
+                      "Kotlin",
+                      "Objective-C",
+                      "C#"
+                  ],
+                  "resposta_correta": "Swift"
+              }
+          ]
+      }
+  ]
+}

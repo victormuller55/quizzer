@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio | Quiizer</title>
+    <link rel="shortcut icon" href="imagens/logo/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="estilos/index.css">
+</head>
+<body>
+    <main>
+        <div class="div-nome">
+            <img class="logo" src="imagens/logo/logo.png" alt="" width="200">
+            <h2 id="ola" class="titulo">Olá, Seja bem-vindo ao Quiizer</h2>
+            <br>
+            <p >Digite seu nome abaixo para iniciar os quizzes!</p>
+            <form action="quiz.html">
+                <input id="form-nome" class="input-nome" type="text" class="botao-iniciar" placeholder="João da Silva... (exemplo)" required><br>
+                <button onclick="onClickNomeButton()" class="button-enviar">Vizualizar os quizzes</button>
+            </form>
+        </div>
+    </main>
+    <script src="javascript/index.js"></script>
+</body>
+</html>
